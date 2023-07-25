@@ -1,0 +1,40 @@
+ img {
+    border-radius: 30%;
+    background-color: darkblue;
+    border: 1px solid black;
+    margin-left: 50px;
+    box-shadow: 0 4px 15px 0px rgba(0, 0, 0, 0.52);
+    object-fit: cover;
+}
+
+ p {
+ 	color: black;
+ 	font-family: cursive;
+ 	font-size: 15px;
+ 	margin-left: 50px;
+   background-color:;
+   margin-top: 30px;
+
+ }
+
+ .fg:hover {
+ 	color: blue;
+ 	font-size: 24px;
+ }
+
+ hr {
+   margin-left: 50px;
+   width: 300px;
+ }
+
+h1 {
+    background-color: ;
+    color: black;
+    padding: 3px;
+    margin-left: px;
+}
+
+button {
+   margin-left: 50px;
+   margin-top: 25px;
+}
